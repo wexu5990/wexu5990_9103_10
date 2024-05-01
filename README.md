@@ -8,6 +8,10 @@
 
 ## I decide to use the ‘copy () method’ to simulate colouring image. This will include a black and white image with a coloured image, when mouse is dragged on a space of the image, that part will be coloured with the original colour. With the whole image changing from black and white to colourful, it reveals the hope of Truman to get out of the space. Here is an example of the code. 
 
-[p5 code](https://p5js.org/examples/image-copy-method.html)
+
 ![The image of the example](readmeImage/p5example.png)
 ![The image of coding technique](readmeImage/codingtechnique.png)
+
+
+[p5 code](https://p5js.org/examples/image-copy-method.html)
+
