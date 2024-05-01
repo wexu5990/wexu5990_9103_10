@@ -10,4 +10,4 @@
 
 [p5 code](https://p5js.org/examples/image-copy-method.html)
 ![The image of the example](readmeImage/p5example.png)
-
+![The image of coding technique](readmeImage/codingtechnique.png)
